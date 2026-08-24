@@ -1,0 +1,9 @@
+[
+  {
+    "name": "My Private RPC",
+    "description": "Custom Rich Presence plugin for Revenge Next",
+    "author": "Me",
+    "main": "index.js",
+    "hash": "1"
+  }
+]
