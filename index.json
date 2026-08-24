@@ -2,9 +2,8 @@
   "name": "My Private RPC Repo",
   "description": "Custom RPC plugins for Revenge Next",
   "author": "imaleaner",
-  "plugins": [
-    {
-      "id": "com.imaleaner.myrpc",
+  "plugins": {
+    "com.imaleaner.myrpc": {
       "name": "My Private RPC",
       "description": "Custom Rich Presence plugin for Revenge Next",
       "author": "imaleaner",
@@ -12,5 +11,5 @@
       "main": "index.js",
       "hash": "1"
     }
-  ]
+  }
 }
