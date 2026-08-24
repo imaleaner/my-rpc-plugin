@@ -1,8 +1,15 @@
 {
+  "format": 1,
+  "id": "com.imaleaner.myrpc",
   "name": "My Private RPC",
   "description": "Custom Rich Presence plugin for Revenge Next",
   "author": "imaleaner",
   "version": "1.0.0",
-  "main": "index.js",
-  "hash": "1"
+  "dependencies": {
+    "revenge.api": { "version": ">=1" },
+    "discord": { "version": "*" }
+  },
+  "dist": {
+    "script": "index.js"
+  }
 }
