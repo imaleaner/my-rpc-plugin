@@ -1,4 +1,5 @@
 {
+  "format": 1,
   "name": "My Private RPC Repo",
   "channels": {
     "com.imaleaner.myrpc": {
